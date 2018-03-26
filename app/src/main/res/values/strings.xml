@@ -1,5 +1,25 @@
 <resources>
-    <string name="app_name">ImageToSpeech</string>
+    <string name="app_name"><b><font size="32">
+        BRAINY KIDZ</font></b></string>
     <string name="apple_button">apple</string>
     <string name="mango_button">mango</string>
+    <string name="toast_message">mango</string>
+    <string name="phonics_button_string"><b>Phonics</b></string>
+    <string name="sight_words_button_string">Sight Words</string>
+    <string name="pictures_button_string">Pictures</string>
+    <string-array name="phonic_array">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+    </string-array>
 </resources>
